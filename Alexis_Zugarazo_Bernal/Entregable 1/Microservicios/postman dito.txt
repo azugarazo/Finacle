@@ -1,0 +1,13 @@
+curl --location 'https://pokeapi.co/api/v2/pokemon/ditto' \
+--header 'authority: pokeapi.co' \
+--header 'accept: */*' \
+--header 'accept-language: es-ES,es;q=0.9' \
+--header 'cookie: _ga=GA1.2.160037812.1680037199; _gid=GA1.2.1921208888.1680037199; _gat_UA-53299289-1=1' \
+--header 'referer: https://pokeapi.co/?' \
+--header 'sec-ch-ua: "Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"' \
+--header 'sec-ch-ua-mobile: ?0' \
+--header 'sec-ch-ua-platform: "Windows"' \
+--header 'sec-fetch-dest: empty' \
+--header 'sec-fetch-mode: cors' \
+--header 'sec-fetch-site: same-origin' \
+--header 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'
